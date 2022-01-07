@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+g++ -o bin/versi_gabungan src/versi_gabungan.cc 
